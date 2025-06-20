@@ -8,8 +8,8 @@
       "developerName": "Lucas Labasque",
       "version": "1.0.0",
       "versionDate": "2025-06-20",
-      "downloadURL": "https://tonlien.com/TestApp.ipa",
-      "iconURL": "https://tonlien.com/testapp-icon.png",
+      "downloadURL": "https://lucas-labasque.github.io/testapp/TestApp.ipa",
+      "iconURL": "https://lucas-labasque.github.io/testapp/testapp-icon.png",
       "localizedDescription": "Une application iOS de test pour SideStore.",
       "tintColor": "#87613e"
     }
