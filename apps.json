@@ -10,7 +10,6 @@
       "versionDate": "2025-06-20",
       "versionDescription": "Version initiale de l’application avec les fonctions de base.",
       "downloadURL": "https://lucas-labasque.github.io/testapp/ReSourceRelationnelapp.ipa",
-      "iconURL": "https://lucas-labasque.github.io/testapp/testapp-icon.png",
       "tintColor": "#87613e",
       "localizedDescription": "Une application iOS de test pour SideStore.",
       "localizedDeveloperName": "Lucas Labasque",
