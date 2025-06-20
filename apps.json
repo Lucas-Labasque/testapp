@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "TestApp",
-      "bundleIdentifier": "com.lucas.testapp",
+      "bundleIdentifier": "com.lucaslabasque.resourcerelationnelapp",
       "developerName": "Lucas Labasque",
       "version": "1.0.0",
       "versionDate": "2025-06-20",
